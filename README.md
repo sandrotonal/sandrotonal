@@ -2,32 +2,6 @@
 
 <br/>
 
-<!-- Apple Dynamic Island Hero (Gerçek SF Pro Tipografisi & Cam Kapsül) -->
-<svg width="100%" max-width="460" height="90" viewBox="0 0 460 90" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 460px; display: block; margin: auto;">
-  <defs>
-    <!-- Frosted Glass Surface -->
-    <linearGradient id="islandBg" x1="0" y1="0" x2="460" y2="90" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#161B22" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#0D1117" stop-opacity="0.75"/>
-    </linearGradient>
-    <!-- Liquid Specular Stroke -->
-    <linearGradient id="islandBorder" x1="0" y1="0" x2="460" y2="90" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF" stop-opacity="0.22"/>
-      <stop offset="0.5" stop-color="#39D353" stop-opacity="0.3"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Capsule Shell -->
-  <rect x="1" y="1" width="458" height="88" rx="26" fill="url(#islandBg)" stroke="url(#islandBorder)" stroke-width="1.2"/>
-
-  <!-- Apple SF Pro Rendered Typography -->
-  <text x="230" y="44" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif" font-size="24" font-weight="700" letter-spacing="-0.4">Ömer Özbay</text>
-  <text x="230" y="66" text-anchor="middle" fill="#39D353" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="11" font-weight="600" letter-spacing="3.5">DEVELOPER</text>
-</svg>
-
-<br/>
-
 <!-- Apple Glass Pill Navigation -->
 <p>
   <a href="https://github.com/sandrotonal" style="text-decoration: none;">
