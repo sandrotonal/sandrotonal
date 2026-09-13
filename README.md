@@ -18,35 +18,38 @@
 
   <br/>
 
-  <!-- iOS Minimal Monochrome Tech Grid -->
+  <!-- iOS Tech Grid -->
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,git&theme=dark" style="filter: grayscale(100%) brightness(1.2); opacity: 0.85;" alt="Tech Stack" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,git&theme=dark" alt="Tech Stack" />
   </p>
 
   <br/>
 
-  <!-- iOS Widget 1: Streak Stats (Dengeli Apple Fitness Halka Teması) -->
-  <a href="https://github.com/sandrotonal">
-    <img src="https://streak-stats.demolab.com?user=sandrotonal&theme=dark&background=0D1117&border=30363D&stroke=238636&ring=2EA44F&fire=39D353&currStreakLabel=39D353&dates=8B949E&sideLabels=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=20" width="495" alt="GitHub Streak" />
-  </a>
+  <!-- Responsive iOS Cards Container (Max 495px, Mobilde %100 Uyumlu) -->
+  <div style="max-width: 495px; width: 100%;">
 
-  <br/><br/>
+    <!-- Widget 1: Streak Stats -->
+    <a href="https://github.com/sandrotonal">
+      <img src="https://streak-stats.demolab.com?user=sandrotonal&theme=dark&background=0D1117&border=30363D&stroke=238636&ring=2EA44F&fire=39D353&currStreakLabel=39D353&dates=8B949E&sideLabels=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=20" width="100%" alt="GitHub Streak" />
+    </a>
 
-  <!-- iOS Widget 2: GitHub Stats Card (Beyaz Başlık, Yeşil Aksan) -->
-  <a href="https://github.com/sandrotonal">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=sandrotonal&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&icon_color=2EA44F&text_color=8B949E&border_radius=20&rank_icon=github" width="495" alt="GitHub Stats" />
-  </a>
+    <br/><br/>
 
-  <br/><br/>
+    <!-- Widget 2: GitHub Stats Card -->
+    <a href="https://github.com/sandrotonal">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=sandrotonal&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&icon_color=2EA44F&text_color=8B949E&border_radius=20&rank_icon=github" width="100%" alt="GitHub Stats" />
+    </a>
 
-  <!-- iOS Widget 3: Top Languages (Beyaz Başlık, Yeşile Uyumlu Monokrom Skala) -->
-  <a href="https://github.com/sandrotonal">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sandrotonal&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&border_radius=20&hide_border=false" width="495" alt="Top Languages" />
-  </a>
+    <br/><br/>
 
-  <br/><br/>
+    <!-- Widget 3: Top Languages -->
+    <a href="https://github.com/sandrotonal">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sandrotonal&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&border_radius=20&hide_border=false" width="100%" alt="Top Languages" />
+    </a>
+
+  </div>
+
+  <br/>
 
   <!-- iOS Dock: Featured Projects -->
   <p>
